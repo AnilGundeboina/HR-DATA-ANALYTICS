@@ -1,0 +1,12 @@
+Data Analysis Themes:
+
+1. How many people are there in each department?
+2. Gender distribution by department
+3. Age spread of our staff (histogram)
+4. Min / max / average salary in each department
+5. Top earners in each country
+6. Performance Spread (sort by column)
+7. Company growth trend
+8. Employee Filter (by starting letter)
+9. Performance vs. Salary - is there any relationship?
+10. India vs. New Zealand - quick scorecard
